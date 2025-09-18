@@ -15,6 +15,9 @@ A stereo vision system with custom camera box design and GUI interface for depth
 - **Reflection Optimization**: Reflective stickers on internal walls to enhance lighting
 - **Diffuse Bottom Surface**: White diffuse stickers on the bottom to reduce shadows
 - **Calibration Board**: [9x6 chessboard pattern](https://smiler488.github.io/app/targets/) printed on A4 paper
+![IMG_5952](https://github.com/user-attachments/assets/ba0acbbc-21d0-40e3-bfcb-cd144da1db0b)
+![IMG_5954](https://github.com/user-attachments/assets/c44c0a7f-2479-4f5a-84cb-f4ad422afb9f)
+![Uploading IMG_5955.JPG…]()
 
 ### Camera Parameters
 - **Resolution**: 640x480 (per camera)
