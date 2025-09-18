@@ -1,9 +1,5 @@
 # Stereo_Vision_Camera_Box
 A stereo vision system with custom camera box design and GUI interface for depth measurement and point cloud generation.
-# Stereo Vision Camera Box
-
-A stereo vision system with custom camera box design and GUI interface for depth measurement and point cloud generation.
-
 ## Features
 
 - **GUI Interface**: User-friendly interface for real-time stereo vision capture
@@ -18,7 +14,7 @@ A stereo vision system with custom camera box design and GUI interface for depth
 - **Lighting System**: LED beads surrounding cameras for uniform illumination
 - **Reflection Optimization**: Reflective stickers on internal walls to enhance lighting
 - **Diffuse Bottom Surface**: White diffuse stickers on the bottom to reduce shadows
-- **Calibration Board**: 9x6 chessboard pattern printed on A4 paper
+- **Calibration Board**: [9x6 chessboard pattern](https://smiler488.github.io/app/targets/) printed on A4 paper
 
 ### Camera Parameters
 - **Resolution**: 640x480 (per camera)
@@ -38,7 +34,7 @@ pip install tkinter
 ## Usage
 
 ### Camera Calibration
-First, calibrate your stereo cameras using the provided (chessboard)[https://smiler488.github.io/app/targets/] pattern and update the camera parameters in the code.
+First, calibrate your stereo cameras using the provided chessboard pattern and update the camera parameters in the code.
 
 ### Run the GUI Application
 ```bash
@@ -73,7 +69,7 @@ data/
 ## Hardware Setup Tips
 
 1. **Lighting**: Ensure even LED illumination around cameras
-2. **Calibration**: Use the provided 9x6 chessboard pattern for accurate calibration
+2. **Calibration**: Use the provided [9x6 chessboard pattern](https://smiler488.github.io/app/targets/) for accurate calibration
 3. **Surface**: White diffuse bottom surface helps reduce shadows
 4. **Positioning**: Mount cameras securely at the top of the box
 
